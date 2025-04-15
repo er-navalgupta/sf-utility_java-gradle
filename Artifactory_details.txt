@@ -1,0 +1,4 @@
+publish to alpha artifactory
+----------------------------
+url=abc.sfpocs-master-2025.com
+url=abc.sfpocs-master-2025_main_20250415.com
